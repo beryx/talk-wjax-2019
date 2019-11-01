@@ -1,0 +1,5 @@
+--add-modules
+  java.logging
+
+--add-reads
+  org.example.jpms=java.logging
