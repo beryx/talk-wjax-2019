@@ -57,21 +57,21 @@ image::Serban-Iordache.jpg[]
 [.thumb]
 image::modules-java9.jpg[width=2000]
 
-[small]#Adapted from: Marc Reinhold (https://twitter.com/mreinhold/status/882644292036026368)#
+[small]#Adapted from: Mark Reinhold (https://twitter.com/mreinhold/status/882644292036026368)#
 
 == Java SE Modules  (Java 9)
 
 [.thumb]
 image::modules-java9-deprecated.jpg[width=2000]
 
-[small]#Adapted from: Marc Reinhold (https://twitter.com/mreinhold/status/882644292036026368)#
+[small]#Adapted from: Mark Reinhold (https://twitter.com/mreinhold/status/882644292036026368)#
 
 == Java SE Modules  (Java 11, 12, 13)
 
 [.thumb]
 image::modules-java11.jpg[width=2000]
 
-[small]#Adapted from: Marc Reinhold (https://twitter.com/mreinhold/status/882644292036026368)#
+[small]#Adapted from: Mark Reinhold (https://twitter.com/mreinhold/status/882644292036026368)#
 
 
 == Dealing with removed modules
